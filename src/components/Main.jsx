@@ -13,8 +13,8 @@ const Main = () => {
       <img className="w-[96vw] xl:h-[46vh] mx-auto h-[18vh] md:h-[26vh] lg:h-[32vh] mt-6 rounded-3xl" src={mainImage} alt="Main Image" />
     </div>
     <div className="flex flex-col items-start mt-14 justify-center md:max-w-xl lg:max-w-2xl xl:max-w-5xl lg:px-32 xl:px-[17rem] px-14">
-      <h1 className="text-3xl lg:text-4xl">Story, emotion <br /> and purpose</h1>
-      <p className="mt-6">We help transform your ideas into real world applications that will outperform your toughest competition and help you achieve your strategic goals in short period of time.</p>
+      <h1 className="text-2xl lg:text-4xl">Story, emotion <br /> and purpose</h1>
+      <p className="my-6">We help transform your ideas into real world applications that will outperform your toughest competition and help you achieve your strategic goals in short period of time.</p>
       <Form/>
     </div>
     

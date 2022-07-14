@@ -2,7 +2,7 @@ import React from "react";
 
 const Form = () => {
   return (
-    <div className="mt-6 w-full">
+    <div className="w-full">
       <span className="text-[#828282]">Want us to contact you?</span>
       <div className="w-full justify-between flex bg-[#F2F2F2] rounded-2xl mt-2">
         <input className="bg-[#F2F2F2] pl-4 rounded-2xl" type="email" placeholder="Email" />
